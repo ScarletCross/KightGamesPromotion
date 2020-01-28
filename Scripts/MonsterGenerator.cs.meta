@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 13f535abee7c92342b8f287ad73d2c5f
+timeCreated: 1537608083
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ChildPrefab: {fileID: 1475821112846104, guid: 717fdecb9e4536b42b990bfe07d535ae,
+      type: 2}
+  - DaikonPrefab: {fileID: 1970957355713898, guid: bd8e47ed189a9f549aef1f07fb85e2f9,
+      type: 2}
+  - MushPrefab: {fileID: 1263984457652148, guid: 9fbd732d7309ff54283360106eb75c50,
+      type: 2}
+  - StornePrefab: {fileID: 1030682244752320, guid: 695d0d6fbdd84e94d9cee13fa9305e23,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
